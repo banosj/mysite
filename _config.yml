@@ -8,11 +8,11 @@
 # -----------BASE SETTINGS---------------#
 #========================================#
 
-title: Dumbarton 
+title: Jonatan Baños-Chaparro 
 email: 
 description: a minimalistic jekyll theme for academics
 baseurl:                                       # the subpath of your site, e.g. /blog
-url: "https://dumbarton.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jonatanbanoschaparro.netlify.app/"          # the base hostname & protocol for your site, e.g. http://example.com
 image: /assets/img/dumbarton.png               # used to generate site link preview
 image_alt: A minimalistic jekyll theme for academic    # image description
 
@@ -20,21 +20,28 @@ image_alt: A minimalistic jekyll theme for academic    # image description
 # -----------SITE SETTINGS---------------#
 #========================================#: 
 author: John Doe 
-profile_image: /assets/img/avatar/cropped.png #/assets/img/avatar/avatar.jpeg 
+profile_image: /assets/img/avatar/banosfoto.png #/assets/img/avatar/avatar.jpeg 
 occupation: 
 snippet:
-twitter: tbutler0x90
-github: tcbutler320
-linkedin: tyler-b-a700a1aa
-stackoverflow: '12935605'
-website: https://tbutler.org
+twitter: jbanosch
+github: banosj
+linkedin: jonatanbaños
+stackoverflow: 
+website: 
 codepen: 
 medium: 
-email: developer.tbutler@gmail.com
-keybase: tbutler320
+email: banos.jhc@gmail.com
+keybase: 
 pgp: 
 ctftime: 
 phonenumber: 
+orcid: 0000-0002-2604-7822
+researchgate: Jonatan-Banos-Chaparro
+google:
+    plus:
+    analytics:
+    verify:
+    scholar: AzZNnQMAAAAJ&hl=es
 
 #========================================#
 # --------- UI THEMES -------------------#

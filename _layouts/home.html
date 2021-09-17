@@ -90,18 +90,18 @@ layout: default
                 <p><i>{{section.description}}</i></p>
                 <p class="card-text">{% bibliography -f presentations %}</p>              
               </div>
-            {% elsif section.name == "Projects" %}
+            {% elsif section.name == "Pruebas psicologicas" %}
               <div class="tab-pane overflow-auto" id="{{section.id}}" role="tabpanel" aria-labelledby="{{section.id}}-tab">  
                 <p><i>{{section.description}}</i></p>
-                  {% for projects in site.data.projects %}
+                  {% for psicologicas in site.data.psicologicas %}
                   <div class="media mt-2">
-                    <a href="{{ projects.link }}"><img src="{{ projects.image }}" class="mr-3 mb-2 img-thumbnail border-0" alt="..."></a>
+                    <a href="{{ psicologicas.link }}"><img src="{{ psicologicas.image }}" class="mr-3 mb-2 img-thumbnail border-0" alt="..."></a>
                     <div class="media-body">
-                      <h5 class="mt-0"><a href="{{ projects.link }}" class="highlighted">{{ projects.name }}</a></h5>
-                      {{ projects.description }}
-                      {% if projects.tech %}
-                        <h6><mark><u>Technologies</u></mark></h6>
-                        {% for tech in projects.tech %}
+                      <h5 class="mt-0"><a href="{{ psicologicas.link }}" class="highlighted">{{ psicologicas.name }}</a></h5>
+                      {{ psicologicas.description }}
+                      {% if psicologicas.tech %}
+                        <h6><mark><u>Psicometría</u></mark></h6>
+                        {% for tech in psicologicas.tech %}
                         <span class="badge badge-secondary mr-1" style="background-color:{{ theme.projects-color }};">{{ tech }}</span>
                         {% endfor %}
                       {% endif %}

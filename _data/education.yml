@@ -1,6 +1,13 @@
-- School: Princeton
+- School: Universidad San Martin de Porres
   Degree: 
-  Program: School of Public and International Affairs
+  Program: Maestría en Educación (MEd.)
   Start Date: 
   End Date: 
-  Icon: /assets/img/icons/2x/princeton-crop.png      # Make this icon small, think 30px/30px
+  Icon: /assets/img/icons/2x/usmp.png      # Make this icon small, think 30px/30px
+
+- School: Universidad Norbert Wiener
+  Degree: 
+  Program: Licenciatura en Psicología Clínica (BSc.)
+  Start Date: 
+  End Date: 
+  Icon: /assets/img/icons/2x/wiener.png      # Make this icon small, think 30px/30px

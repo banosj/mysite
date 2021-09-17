@@ -1,0 +1,66 @@
+- name: Inventario de Frecuencia de Ideación Suicida
+  id: Inventario de Frecuencia de Ideación Suicida
+  description: >
+    El IFIS evalúa la frecuencia de ideación suicida durante los últimos 12 meses. Esta conformado por 5 ítems y presenta un sistema
+    de respuesta likert. La investigación realizada en Perú analizó su estructura interna, invarianza según los grupos de sexo y edad,
+    confiabilidad y evidencia basada en relación a otras variables. Se recomienda su uso en adultos peruanos de población general
+    residente en Lima.     
+  date: true
+  link: https://drive.google.com/file/d/1kNMOybpnpLuE-f6O7uq4AEMKHYBxInKc/view?usp=sharing
+  image: /assets/img/psicologicas/ifis.jpeg
+  tech: 
+    - Ideación Suicida
+    - Adultos peruanos
+    - Psicometría
+    - SEM
+
+- name: Escala de Insomnio de Atenas
+  id: Escala de Insomnio de Atenas
+  description: >
+    Instrumento unidimensional basado en los criterios del CIE-10. La Escala de Insomnio de Atenas esta conformado por 8 ítems y tiene
+    una versión breve de 5 ítems. El estudio realizado en Perú analizó la versión breve desde un enfoque mixto (TCT y TRI) en adultos
+    peruanos de población general. Los hallazgos respaldan su específico en adultos residentes de Lima para la interpretación de sus
+    puntuaciones y comparaciones entre mujeres y hombres. 
+  date: true
+  link: https://drive.google.com/file/d/1ssH3OqYNOe9FW8K8CY3zdHbbyx_ZjWy-/view?usp=sharing
+  image: /assets/img/psicologicas/insomnio.jpeg
+  tech: 
+    - Insomnio
+    - CIE-10
+    - Psicometría
+    - SEM & TRI
+
+- name: Escala Paykel de Suicidio
+  id: Escala Paykel de Suicidio
+  description: >
+    Una escala breve basada en 5 ítems para evaluar conductas suicidas en población adolescente. La Escala Paykel presenta adecuadas
+    fuentes de evidencias de validez en adolescentes residentes de Puquio, Ayacucho. Por lo tanto, si su objetivo es evaluar las conductas
+    suicidas, aplique la escala completa. Por el contrario, si su objetivo es evaluar específicamente la ideación suicida, aplique solo 
+    los primeros 4 ítems, dado que el último ítem solo evalúa intento de suicidio. Puede revisar algunas investigaciones al respecto 
+    (https://doi.org/10.1007/s00787-020-01476-w | https://doi.org/10.1371/journal.pone.0240840). Es oportuno señalar que en el Perú ya 
+    se dispone de otros instrumentos basados en evidencias para evaluar específicamente la ideación suicida, los cuales puede encontrarlos
+    en esta misma sección.   
+  date: true
+  link: https://drive.google.com/file/d/1sKJW1bRE7b9C3R_mD8jHnUwWJcMHGj4h/view?usp=sharing
+  image: /assets/img/psicologicas/paykel.jpeg
+  icon: "fas fa-project-diagram"
+  tech: 
+    - Conductas Suicidas
+    - Evaluación psicológica
+    - Psicometría
+    - SEM
+
+- name: Body Shape Questionnaire
+  id: Body Shape Questionnaire
+  description: >
+    El BSQ es una medida unidimensional construida por 34 ítems para evaluar la insatisfacción corporal. Una revisión de la literatura
+    señalaba diversas estructuras psicométricas del BSQ. Sin embargo, no brindaban una explicación teórica aquellos resultados. La
+    investigación realizada en Perú concuerda con los hallazgos del estudio original.  
+  date: true
+  link: https://drive.google.com/file/d/12db02_tYQGsrLbf_9w523A7oli1nNNOs/view?usp=sharing
+  image: /assets/img/psicologicas/bsq.png
+  tech: 
+    - Insatisfacción corporal
+    - BSQ
+    - Psicometría
+    - SEM

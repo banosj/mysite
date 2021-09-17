@@ -1,26 +1,25 @@
 - name: Publications
   id: publications
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: En esta sección se describen las últimas cinco investigaciones publicadas.  
   url: publications.html
   first: true
   
-- name: Coursework
-  id: courses
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- name: Pruebas psicologicas
+  id: psicologicas
+  description: Estudios psicométricos realizados en Perú, basados en el enfoque SEM, TRI & EGA.
   content: 
+  url: psicologicas.html
   first: false
 
-- name: Teaching
-  id: teaching
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  content: 
-  url: teaching.html
-  first: false
+# - name: Coursework
+#   id: courses
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   content: 
+#   first: false
 
-- name: Projects
-  id: projects
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  content: 
-  url: projects.html
-  first: false
-
+# - name: Teaching
+#   id: teaching
+#   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   content: 
+#   url: teaching.html
+#   first: false
