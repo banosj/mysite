@@ -15,7 +15,8 @@ last-updated: 2021-09-17 5:55 PM
 
 ### Artículos
 
-  **[[<font color=blue>2021</font>]**
+
+  **<font color=blue>2021</font>**
 
 + **Síntomas depresivos en adultos peruanos: un análisis de redes**<br/>
   **Baños-Chaparro J.**<br/>
@@ -27,8 +28,38 @@ last-updated: 2021-09-17 5:55 PM
   Revista Cubana de Medicina Militar (RCMM), 2021<br/>
   **[[<font color=red>Artículo</font>](http://www.revmedmilitar.sld.cu/index.php/mil/article/view/1450)]** **[[<font color=red>Data y Códigos</font>](https://osf.io/v954z/)]**
 
++ **Inventario de Frecuencia de Ideación Suicida: evidencias psicométricas en adultos peruanos**<br/>
+  **Baños-Chaparro J.**, Ynquillay-Lima P., Lamas Delgado F., y Fuster Guillen F.<br/>
+  Revista Información Científica (RIC), 2021<br/>
+  **[[<font color=red>Artículo</font>](http://www.revinfcientifica.sld.cu/index.php/ric/article/view/3507)]** **[[<font color=red>Códigos</font>](https://osf.io/3an8q/)]**
 
-  **[[<font color=blue>2020</font>]**
++ **Comportamiento suicida en el trastorno del espectro autista**<br/>
+  **Baños-Chaparro J.**<br/>
+  Revista Española de Discapacidad (REDIS), 2021<br/>
+  **[[<font color=red>Artículo</font>](https://www.cedd.net/redis/index.php/redis/article/view/747)]**
+
++ **Suicidio por arma de fuego: un problema de salud pública**<br/>
+  **Baños-Chaparro J.**<br/>
+  Medisur (Medisur), 2021<br/>
+  **[[<font color=red>Artículo</font>](http://medisur.sld.cu/index.php/medisur/article/view/4973)]**
+
++ **Escala de Insomnio de Atenas: Evidencias psicométricas en adultos peruanos**<br/>
+  **Baños-Chaparro J.**, Fuster Guillen F., y Marín-Contreras J.<br/>
+  LIBERABIT. Revista Peruana De Psicología (LIBERABIT), 2021<br/>
+  **[[<font color=red>Artículo</font>](http://revistaliberabit.com/index.php/Liberabit/article/view/458)]**
+
++ **Evidencias psicométricas del Patient Health Questionnarie-2 para la evaluación de síntomas depresivos en adultos peruanos**<br/>
+  **Baños-Chaparro J.**, Ynquillay-Lima P., Lamas Delgado F., y Fuster Guillen F.<br/>
+  Revista de Ciencias Médicas de Pinar del Río (RCMPR), 2021<br/>
+  **[[<font color=red>Artículo</font>](http://www.revcmpinar.sld.cu/index.php/publicaciones/article/view/5064)]** **[[<font color=red>Códigos</font>](https://osf.io/684bn/)]**
+
++ **Análisis Bayesiano del compromiso académico en estudiantes de psicología: diferencias según sexo y edad**<br/>
+  Fuster Guillen F., y **Baños-Chaparro J.**<br/>
+  Revista De Investigación En Psicología (RIP), 2021<br/>
+  **[[<font color=red>Artículo</font>](https://revistasinvestigacion.unmsm.edu.pe/index.php/psico/article/view/20210)]**
+
+
+  **<font color=blue>2020</font>**
 
 + **Body Shape Questionnaire (BSQ): Estructura factorial y fiabilidad en universitarios peruanos**<br/>
   **Baños-Chaparro J.**, Aguilar Marca K.<br/>
