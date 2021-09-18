@@ -1,4 +1,4 @@
-- name: Publicaciones
+- name: Publications
   id: publications
   description: En esta sección se describen las últimas cinco investigaciones publicadas de mi autoría.  
   url: publications.html
