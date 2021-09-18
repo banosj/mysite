@@ -63,7 +63,7 @@ a.highlighted:hover {
   padding-bottom: 5px;
   padding-top: 5px;
 }
-.publications {
+.publicaciones {
   text-align: left;
 }
 
@@ -490,7 +490,7 @@ border-radius: 0%;
 
 .heading-footer 
 { 
-background-image: url(/assets/img/publications.png); 
+background-image: url(/assets/img/publicaciones.png); 
 background-size: cover; 
 height: 175px; 
 -webkit-box-shadow: none; 

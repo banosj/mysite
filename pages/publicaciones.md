@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications.html
+permalink: /publicaciones.html
 title: Publicaciones
 header-img: 
 last-updated: 2021-09-17 5:55 PM
