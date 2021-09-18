@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /about.html
-title: About Me
+title: Sobre mi
 description: Get to know what I'm up too
 header-img: 
-last-updated: 2020-10-30 5:55 PM
+last-updated: 2021-09-17 5:55 PM
 ---
 
 <h1 class="mx-auto" style="font-family:Courgette;">{{ page.title }}</h1>

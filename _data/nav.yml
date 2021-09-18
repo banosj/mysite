@@ -1,16 +1,16 @@
 nav_list_title: Navigation List
 links:
 
-- title: About
+- title: Sobre mí
   url: about.html
 
-- title: Publications
+- title: Publicaciones
   url: publications.html
 
 - title: Blog
   url: blog.html
 
-- title: Vitae
+- title: CV
   url: /assets/pdf/CVbanos.pdf
 
 # - title: Contact
