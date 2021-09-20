@@ -3,13 +3,13 @@ layout: page
 permalink: /about.html
 title: Sobre mi
 description: 
-image: /assets/img/posts/foto3.jpg
+image: /assets/img/posts/foto3.png
 last-updated: 2021-09-17 5:55 PM
 ---
 
 <h1 class="mx-auto" style="font-family:Courgette;">{{ page.title }}</h1>
 
-  <img src="/assets/img/posts/foto3.jpg">
+  <img src="/assets/img/posts/foto3.png">
 
 Nací el 25 de enero de 1994, Lima - Perú. Terminé mis estudios de pregrado de psicología clínica en la Universidad Norbert Wiener en el año 2018 y una formación de 2 años en Terapia Conductual Cognitiva en el Centro Peruano de Investigaciones Psicológicas y Modificación del comportamiento (CIPMOC). En el 2019 inicié mis estudios de maestría y ha finales de este año obtuve mi título de Licenciatura. En el 2020 obtuve mi título de Maestría en Educación en la Universidad San Martín de Porres. Desde el 2019 hasta el 2021 trabajé como Psicólogo JEC para la MINEDU, en instituciones públicas de Ayacucho y Cusco. Asimismo, ejercí mis actividades como psicólogo clínico en el centro médico CosmeSalud.  
 
