@@ -2,26 +2,19 @@
 layout: page
 permalink: /about.html
 title: Sobre mi
-description: Get to know what I'm up too
-header-img: 
+description: 
+image: /assets/img/posts/foto3.jpg
 last-updated: 2021-09-17 5:55 PM
 ---
 
 <h1 class="mx-auto" style="font-family:Courgette;">{{ page.title }}</h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Libero id faucibus nisl tincidunt eget. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Duis convallis convallis tellus id interdum velit. Ultricies mi eget mauris pharetra et. Odio pellentesque diam volutpat commodo sed egestas. Eu mi bibendum neque egestas congue quisque. Augue lacus viverra vitae congue eu consequat ac felis donec. Ultrices vitae auctor eu augue ut lectus arcu. Eu consequat ac felis donec et. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget.
+  <img src="/assets/img/posts/foto3.jpg">
 
+Nací el 25 de enero de 1994, Lima - Perú. Terminé mis estudios de pregrado de psicología clínica en la Universidad Norbert Wiener en el año 2018 y una formación de 2 años en Terapia Conductual Cognitiva en el Centro Peruano de Investigaciones Psicológicas y Modificación del comportamiento (CIPMOC). En el 2019 inicié mis estudios de maestría y ha finales de este año obtuve mi título de Licenciatura. En el 2020 obtuve mi título de Maestría en Educación en la Universidad San Martín de Porres. Desde el 2019 hasta el 2021 trabajé como Psicólogo JEC para la MINEDU, en instituciones públicas de Ayacucho y Cusco. Asimismo, ejercí mis actividades como psicólogo clínico en el centro médico CosmeSalud.  
 
-*This is an example of code*
-```js
-<script>
-    $(document).ready(function() {
-        $(".toast").toast('show');
-    });
-</script>
-```
+Mi propósito después de finalizar mis estudios de pregrado y formación en TCC, era seguir esta misma línea para convertirme en un buen terapeuta conductual, estudiar una maestría en Medicina Conductual y trabajar en hospitales o clínicas impulsando esta área de la psicología. Sin embargo, circunstancias de la vida me llevaron por otro camino. Nunca quise ser investigador, pero me quede aquí por responsabilidad y por que aún hay muchos problemas que resolver. 
 
-Semper eget duis at tellus at urna condimentum. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Suspendisse faucibus interdum posuere lorem ipsum dolor. Volutpat commodo sed egestas egestas fringilla phasellus faucibus. Maecenas accumsan lacus vel facilisis volutpat est velit egestas dui. Massa placerat duis ultricies lacus. Fermentum et sollicitudin ac orci phasellus egestas tellus. Placerat orci nulla pellentesque dignissim enim sit amet. Tellus mauris a diam maecenas sed enim. Tortor vitae purus faucibus ornare. Lectus quam id leo in vitae turpis massa. Porttitor eget dolor morbi non arcu risus quis varius. Felis eget nunc lobortis mattis aliquam. Integer vitae justo eget magna fermentum.
+Mi interés en la investigación incluye en comprender, medir y explicar a través de modelos psicológicos los problemas de conductas suicidas. Considero que en el estudio de la conducta humana, los problemas de conductas suicidas es un primer paso para entender la funcionalidad del ser humano. Identificar los factores de riesgo, los factores de protección, métodos de prevención e instrumentos psicológicos basados en evidencia, es un objetivo para mí. Asimismo, las consecuencias de una muerte por suicidio en los familiares (supervivientes), directrices adecuadas para los medios de comunicación (Tv, radio, etc) y el estigma asociado a las conductas suicidas (mitos en población general y profesionales de la salud). Disfruto también aprendiendo sobre filosofía y métodos estadísticos avanzados. 
 
-Egestas congue quisque egestas diam in arcu cursus euismod quis. Ullamcorper eget nulla facilisi etiam dignissim diam. Nunc pulvinar sapien et ligula ullamcorper. Turpis in eu mi bibendum. Faucibus scelerisque eleifend donec pretium vulputate. Euismod lacinia at quis risus sed vulputate odio ut enim. Phasellus faucibus scelerisque eleifend donec pretium. Non enim praesent elementum facilisis leo vel fringilla est ullamcorper. Quis auctor elit sed vulputate. Eu mi bibendum neque egestas. Eu turpis egestas pretium aenean pharetra magna ac. Augue ut lectus arcu bibendum at. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus. Fermentum leo vel orci porta non pulvinar. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Amet commodo nulla facilisi nullam vehicula ipsum a arcu.
-
+Cuando no estoy investigando, practico equitación o intento ser tryhard en un mmorpg.
