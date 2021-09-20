@@ -4,7 +4,7 @@ title:
 date: 2021-09-17 
 ---
 ### Jonatan Baños-Chaparro
-Nací el 25 de enero de 1994, Lima - Perú. Terminé mis estudios de pregrado en el 2018 y una formación de 2 años en Terapia Conductual Cognitiva por CIPMOC. En el 2019 obtuve mi Licenciatura y en el 2020 mi Maestría. Desde el 2019 hasta el 2021 trabajé como Psicólogo JEC para la MINEDU. Nunca quise ser investigador, pero circunstancias de la vida me llevaron por este camino. El 11 de marzo del 2020 inició mi carrera científica con mi primera publicación. Mi interés en la investigación incluye las conductas suicidas, medición y modelado de redes. 
+Nací el 25 de enero de 1994, Lima - Perú. Terminé mis estudios de pregrado en el 2018 y una formación de 2 años en Terapia Conductual Cognitiva por CIPMOC. En el 2019 obtuve mi Licenciatura y en el 2020 mi Maestría. Desde el 2019 hasta el 2021 trabajé como Psicólogo JEC para la MINEDU. Nunca quise ser investigador, pero circunstancias de la vida me llevaron por este camino. Mi interés en la investigación incluye en comprender, medir y explicar a través de modelos psicológicos los problemas de conductas suicidas.
 
 Cuando no estoy investigando, practico equitación o intento ser tryhard en un mmorpg.
 
