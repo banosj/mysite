@@ -18,6 +18,16 @@ last-updated: 2021-09-17 5:55 PM
 
   **<font color=blue>2021</font>**
 
++ **¿Preguntar sobre conductas suicidas tiene efectos negativos?: una revisión narrativa basada en evidencia**<br/>
+  **Baños-Chaparro J.**<br/>
+  Revista de Ciencias Médicas de Pinar del Río (RCMPR), 2021<br/>
+  **[[<font color=red>En prensa</font>]()]**
+
++ **Análisis bayesiano de la ideación suicida en adultos peruanos**<br/>
+  **Baños-Chaparro J.**<br/>
+  Revista Médica de Santiago de Cuba (MEDISAN), 2021<br/>
+  **[[<font color=red>Artículo</font>](http://www.medisan.sld.cu/index.php/san/article/view/3787)]**
+
 + **Síntomas depresivos en adultos peruanos: un análisis de redes**<br/>
   **Baños-Chaparro J.**<br/>
   Revista virtual de la Sociedad Paraguaya de Medicina Interna (RVSPMI), 2021<br/>
