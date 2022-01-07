@@ -18,6 +18,11 @@ last-updated: 2021-09-17 5:55 PM
 
   **<font color=blue>2021</font>**
 
++ **Importancia de cursos de prevención del suicidio en ciencias de la salud y fuerzas armadas**<br/>
+  **Baños-Chaparro J.**<br/>
+  Revista de Investigación en Psicología (RIP), 2021<br/>
+  **[[<font color=red>Artículo</font>](https://revistasinvestigacion.unmsm.edu.pe/index.php/psico/article/view/21214)]**
+
 + **¿Preguntar sobre conductas suicidas tiene efectos negativos?: una revisión narrativa basada en evidencia**<br/>
   **Baños-Chaparro J.**<br/>
   Revista de Ciencias Médicas de Pinar del Río (RCMPR), 2021<br/>
@@ -62,6 +67,11 @@ last-updated: 2021-09-17 5:55 PM
   **Baños-Chaparro J.**, Ynquillay-Lima P., Lamas Delgado F., y Fuster Guillen F.<br/>
   Revista de Ciencias Médicas de Pinar del Río (RCMPR), 2021<br/>
   **[[<font color=red>Artículo</font>](http://www.revcmpinar.sld.cu/index.php/publicaciones/article/view/5064)]** **[[<font color=red>Códigos</font>](https://osf.io/684bn/)]**
+
++ **Psychodynamic Network Structure Of Enneagram Personality Types And Healthy Personality In Male University Students**<br/>
+  Ramos-Vera C., Serpa-Barrientos A., García-Ampudia L., Nuñez Galvez C., y **Baños-Chaparro J.**<br/>
+  Multicultural Education (ME), 2021<br/>
+  **[[<font color=red>Artículo</font>](http://ijdri.com/me/wp-content/uploads/2021/11/2.pdf)]**
 
 + **Análisis Bayesiano del compromiso académico en estudiantes de psicología: diferencias según sexo y edad**<br/>
   Fuster Guillen F., y **Baños-Chaparro J.**<br/>
