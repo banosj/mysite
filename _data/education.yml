@@ -1,13 +1,20 @@
-- School: Universidad San Martin de Porres
+- School: Universidad de San Martin de Porres
   Degree: 
-  Program: Maestría en Educación (MEd.)
+  Program: Ph.D. Doctorado en Psicología (c)
+  Start Date: 
+  End Date: 
+  Icon: /assets/img/icons/2x/usmp.png      # Make this icon small, think 30px/30px
+
+- School: Universidad de San Martin de Porres
+  Degree: 
+  Program: MEd. Maestría en Educación
   Start Date: 
   End Date: 
   Icon: /assets/img/icons/2x/usmp.png      # Make this icon small, think 30px/30px
 
 - School: Universidad Norbert Wiener
   Degree: 
-  Program: Licenciatura en Psicología Clínica (BSc.)
+  Program: BSc. Psicología Clínica
   Start Date: 
   End Date: 
   Icon: /assets/img/icons/2x/wiener.png      # Make this icon small, think 30px/30px
