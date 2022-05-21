@@ -16,6 +16,29 @@ last-updated: 2021-09-17 5:55 PM
 ### Artículos
 
 
+  **<font color=blue>2022</font>**
+
++ **Escala de Suicidalidad: Evidencias psicométricas en adolescentes peruanos**<br/>
+  **Baños-Chaparro J.**, y Reyes-Arquiñego, M.<br/>
+  Revista de la Universidad del Zulia (RUZ), 2022<br/>
+  **[[<font color=red>Artículo</font>](https://produccioncientificaluz.org/index.php/rluz/article/view/38058)]** **[[<font color=red>Códigos</font>](https://osf.io/dgpwh/)]**
+
++ **Análisis de red de la comorbilidad entre síntomas de ansiedad e insomnio en adultos**<br/>
+  **Baños-Chaparro J.**, Lamas Delgado F., Ynquillay-Lima P., Jacobi-Romero D., y Fuster Guillen F.<br/>
+  Revista Cubana de Medicina Militar (RCMM), 2022<br/>
+  **[[<font color=red>Artículo</font>](http://www.revmedmilitar.sld.cu/index.php/mil/article/view/1891)]**
+
++ **Análisis psicométrico del Generalized Anxiety Disorder-2 en adultos peruanos**<br/>
+  **Baños-Chaparro J.**<br/>
+  Revista de Investigaciones Universidad del Quindio (RIUQ), 2022<br/>
+  **[[<font color=red>Artículo</font>](https://ojs.uniquindio.edu.co/ojs/index.php/riuq/article/view/581)]**
+
++ **Medicina Conductual: Una revisión histórica**<br/>
+  **Baños-Chaparro J.**<br/>
+  Revista de Neuro-Psiquiatría (RNP), 2022<br/>
+  **[[<font color=red>Artículo</font>](https://revistas.upch.edu.pe/index.php/RNP/article/view/4153)]**
+
+
   **<font color=blue>2021</font>**
 
 + **Importancia de cursos de prevención del suicidio en ciencias de la salud y fuerzas armadas**<br/>

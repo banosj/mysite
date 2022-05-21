@@ -1,3 +1,19 @@
+- name: Escala de Suicidalidad
+  id: Escala de Suicidalidad
+  description: >
+    La ES evalúa la suicidalidad durante los últimos 12 meses. Esta conformado por 4 ítems y tiene un sistema de respuesta tipo Likert.
+    El estudio realizado en el Perú, contó con la participación de adolescentes residentes de Ica. Los análisis se basaron desde el
+    enfoque SEM y TRI. Los resultados respaldan su evidencia basada en la estructura interna y confiabilidad, siendo más útil en 
+    personas con niveles altos de suicidalidad.     
+  date: true
+  link: https://drive.google.com/file/d/1RZ9DJ8R3YOZQQ7PSXIjeuqp1rcNNgVVe/view?usp=sharing
+  image: /assets/img/psicologicas/ES.jpg
+  tech: 
+    - Suicidalidad
+    - Adolescentes peruanos
+    - Psicometría
+    - SEM & TRI
+
 - name: Inventario de Frecuencia de Ideación Suicida
   id: Inventario de Frecuencia de Ideación Suicida
   description: >
