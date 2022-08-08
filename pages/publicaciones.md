@@ -18,6 +18,26 @@ last-updated: 2021-09-17 5:55 PM
 
   **<font color=blue>2022</font>**
 
++ **Evaluación de conductas suicidas: Evidencias psicométricas del Suicidal Behaviors Questionnaire-Revised (SBQ-R) en adultos peruanos**<br/>
+  **Baños-Chaparro J.**, Lamas Delgado F., Ynquillay-Lima P., y Fuster Guillen F.<br/>
+  Revista Latinoamericana de Ciencia Psicológica (PSIENCIA), 2022<br/>
+  **[[<font color=red>Artículo</font>](http://www.psiencia.com/index.php/revista/article/view/24)]**
+
++ **Duelo por suicidio: ¿Qué sucede después en la familia?**<br/>
+  **Baños-Chaparro J.**<br/>
+  Revista de Investigación en Psicología, 2022<br/>
+  **[[<font color=red>Artículo</font>](https://revistasinvestigacion.unmsm.edu.pe/index.php/psico/article/view/22287)]**
+
++ **Ideación suicida pasiva y activa: una breve descripción**<br/>
+  **Baños-Chaparro J.**<br/>
+  Peruvian Journal of Health Care and Global Health, 2022<br/>
+  **[[<font color=red>Artículo</font>](http://52.37.22.248/index.php/hgh/article/view/170)]**
+
++ **Síntomas depresivos y ansiedad como predictores de ideación suicida en adultos**<br/>
+  **Baños-Chaparro J.**<br/>
+  Medisur, 2022<br/>
+  **[[<font color=red>Artículo</font>](http://www.medisur.sld.cu/index.php/medisur/article/view/5391)]** **[[<font color=red>Códigos</font>](https://osf.io/xtu4w/)]**
+
 + **Escala de Suicidalidad: Evidencias psicométricas en adolescentes peruanos**<br/>
   **Baños-Chaparro J.**, y Reyes-Arquiñego, M.<br/>
   Revista de la Universidad del Zulia (RUZ), 2022<br/>
@@ -90,6 +110,11 @@ last-updated: 2021-09-17 5:55 PM
   **Baños-Chaparro J.**, Ynquillay-Lima P., Lamas Delgado F., y Fuster Guillen F.<br/>
   Revista de Ciencias Médicas de Pinar del Río (RCMPR), 2021<br/>
   **[[<font color=red>Artículo</font>](http://www.revcmpinar.sld.cu/index.php/publicaciones/article/view/5064)]** **[[<font color=red>Códigos</font>](https://osf.io/684bn/)]**
+
++ **The network structure of depressive symptomatology in Peruvian adults with arterial hypertension**<br/>
+  Ramos-Vera C., **Baños-Chaparro J.**, y Ogundokun R. O.<br/>
+  F1000Research, 2021<br/>
+  **[[<font color=red>Artículo</font>](https://f1000research.com/articles/10-19)]**
 
 + **Psychodynamic Network Structure Of Enneagram Personality Types And Healthy Personality In Male University Students**<br/>
   Ramos-Vera C., Serpa-Barrientos A., García-Ampudia L., Nuñez Galvez C., y **Baños-Chaparro J.**<br/>

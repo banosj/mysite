@@ -1,3 +1,20 @@
+- name: Suicidal Behaviors Questionnaire-Revised (SBQ-R)
+  id: Suicidal Behaviors Questionnaire-Revised (SBQ-R)
+  description: >
+    El SBQ-R evalúa las conductas suicidas (e.g., conducta suicida de por vida, ideación suicida, comunicación de intento de suicidio y
+    la probabilidad de conducta suicida en el futuro) durante los últimos 12 meses. Esta conformado por 4 ítems y tiene un sistema de 
+    respuesta tipo Likert. El estudio realizado en el Perú, contó con la participación de adultos residentes de Lima. Los análisis se 
+    basaron desde el enfoque SEM. Los resultados respaldan su evidencia basada en la estructura interna, confiabilidad, invarianza para
+    el grupo de edad (adultos jovenes y adultos) y evidencia de validez basada en otras variables. 
+  date: true
+  link: https://drive.google.com/file/d/1JW4CJeY-ccZ9ifGb4A1CBbO8bfC3hxZd/view?usp=sharing
+  image: /assets/img/psicologicas/SBQ-R.jpg
+  tech: 
+    - Conductas suicidas
+    - Adultos peruanos
+    - Psicometría
+    - SEM
+
 - name: Escala de Suicidalidad
   id: Escala de Suicidalidad
   description: >
