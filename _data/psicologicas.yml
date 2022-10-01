@@ -47,15 +47,15 @@
     - Psicometría
     - SEM
 
-- name: Escala de Insomnio de Atenas
-  id: Escala de Insomnio de Atenas
+- name: Escala Atenas de Insomnio
+  id: Escala Atenas de Insomnio
   description: >
     Instrumento unidimensional basado en los criterios del CIE-10. La Escala de Insomnio de Atenas esta conformado por 8 ítems y tiene
     una versión breve de 5 ítems. El estudio realizado en Perú analizó la versión breve desde un enfoque mixto (TCT y TRI) en adultos
     peruanos de población general. Los hallazgos respaldan su uso específico en adultos residentes de Lima para la interpretación de sus
     puntuaciones y comparaciones entre mujeres y hombres. 
   date: true
-  link: https://drive.google.com/file/d/1ssH3OqYNOe9FW8K8CY3zdHbbyx_ZjWy-/view?usp=sharing
+  link: https://drive.google.com/file/d/1EasIVJz3QyipNR-b0vvWE8YWdPouO8Z2/view?usp=sharing
   image: /assets/img/psicologicas/insomnio.jpeg
   tech: 
     - Insomnio
@@ -80,6 +80,36 @@
   tech: 
     - Conductas Suicidas
     - Evaluación psicológica
+    - Psicometría
+    - SEM
+
+- name: Generalized Anxiety Disorder-2
+  id: Generalized Anxiety Disorder-2
+  description: >
+    El GAD-2 es una versión reducida del GAD-7. Esta conformado por 2 ítems que evalua los síntomas de ansiedad generalizada durante 
+    las últimas 2 semanas. El estudio se realizó en adultos peruanos residentes en Lima y se reportó aceptable consistencia interna y 
+    evidencia basada en relación a otras variables desde el enfoque SEM. 
+  date: true
+  link: https://drive.google.com/file/d/1UqY63rrGTFxTSVX4cWOSdnbqE0kj9LGW/view?usp=sharing
+  image: /assets/img/psicologicas/gad-2.jpeg
+  tech: 
+    - Ansiedad generalizada
+    - GAD-2
+    - Psicometría
+    - SEM
+
+- name: Patient Health Questionnarie-2
+  id: Patient Health Questionnarie-2
+  description: >
+    El PHQ-2 es una versión reducida del PHQ-9. Esta conformado por 2 ítems que evalúan el poco interés en hacer las cosas y estado
+    de ánimo durante las últimas 2 semanas. El estudio se realizó en adultos peruanos residentes en Lima y se reportó aceptable 
+    consistencia interna y evidencia basada en relación a otras variables desde el enfoque SEM. 
+  date: true
+  link: https://drive.google.com/file/d/1XKKYZ6F04VKmMS_tiAsTaxhyafV7423K/view?usp=sharing
+  image: /assets/img/psicologicas/phq_2.jpeg
+  tech: 
+    - Síntomas depresivos
+    - PHQ-2
     - Psicometría
     - SEM
 
