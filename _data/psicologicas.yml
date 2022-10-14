@@ -1,3 +1,19 @@
+- name: Escala de Ideación Suicida de Roberts
+  id: Escala de Ideación Suicida de Roberts
+  description: >
+    La EISR evalúa la ideación suicida durante la última semana. Esta conformado por 4 ítems y tiene un sistema de respuesta tipo Likert.
+    El estudio realizado en el Perú, contó con la participación de adolescentes residentes en Lima. Los análisis se basaron desde el
+    enfoque SEM. Los resultados respaldan su evidencia basada en la estructura interna, invarianza de medición para los grupos de sexo 
+    y edad, confiabilidad de sus puntuaciones y evidencia basada en la relación con otras variables. 
+  date: true
+  link: https://drive.google.com/file/d/19oPae4JsiyG5yqh_WZmmIp_Q7ZohE3rd/view?usp=sharing
+  image: /assets/img/psicologicas/EISR.jpg
+  tech: 
+    - Ideación suicida
+    - Adolescentes peruanos
+    - Psicometría
+    - SEM
+
 - name: Suicidal Behaviors Questionnaire-Revised (SBQ-R)
   id: Suicidal Behaviors Questionnaire-Revised (SBQ-R)
   description: >
@@ -47,6 +63,25 @@
     - Psicometría
     - SEM
 
+- name: Escala Paykel de Suicidio
+  id: Escala Paykel de Suicidio
+  description: >
+    Una escala breve basada en 5 ítems para evaluar conductas suicidas en población adolescente. La Escala Paykel presenta adecuadas
+    fuentes de evidencias de validez en adolescentes residentes de Puquio, Ayacucho. Por lo tanto, si su objetivo es evaluar las conductas
+    suicidas, aplique la escala completa. Por el contrario, si su objetivo es evaluar específicamente la ideación suicida, aplique solo 
+    los primeros 4 ítems, dado que el último ítem solo evalúa intento de suicidio. Puede revisar algunas investigaciones al respecto 
+    (doi: 10.1007/s00787-020-01476-w | doi: 10.1371/journal.pone.0240840). Es oportuno señalar que en el Perú ya se dispone de otros 
+    instrumentos basados en evidencias para evaluar específicamente la ideación suicida, los cuales puede encontrarlos en esta misma sección.   
+  date: true
+  link: https://drive.google.com/file/d/1sKJW1bRE7b9C3R_mD8jHnUwWJcMHGj4h/view?usp=sharing
+  image: /assets/img/psicologicas/paykel.jpeg
+  icon: "fas fa-project-diagram"
+  tech: 
+    - Conductas Suicidas
+    - Evaluación psicológica
+    - Psicometría
+    - SEM
+
 - name: Escala Atenas de Insomnio
   id: Escala Atenas de Insomnio
   description: >
@@ -63,25 +98,41 @@
     - Psicometría
     - SEM & TRI
 
-- name: Escala Paykel de Suicidio
-  id: Escala Paykel de Suicidio
+- name: Escala de Desesperanza de Beck - versión breve 
+  id: Escala de Desesperanza de Beck - versión breve
   description: >
-    Una escala breve basada en 5 ítems para evaluar conductas suicidas en población adolescente. La Escala Paykel presenta adecuadas
-    fuentes de evidencias de validez en adolescentes residentes de Puquio, Ayacucho. Por lo tanto, si su objetivo es evaluar las conductas
-    suicidas, aplique la escala completa. Por el contrario, si su objetivo es evaluar específicamente la ideación suicida, aplique solo 
-    los primeros 4 ítems, dado que el último ítem solo evalúa intento de suicidio. Puede revisar algunas investigaciones al respecto 
-    (https://doi.org/10.1007/s00787-020-01476-w | https://doi.org/10.1371/journal.pone.0240840). Es oportuno señalar que en el Perú ya 
-    se dispone de otros instrumentos basados en evidencias para evaluar específicamente la ideación suicida, los cuales puede encontrarlos
-    en esta misma sección.   
+    El EDB-4 es una versión reducida de la Escala de Desesperanza de Beck. Esta conformado por 4 ítems que incluyen ítems positivos y
+    negativos que representan la triada teórica de la desesperanza basada en los componentes afectivos, cognitivos y motivacionales. El
+    estudio se realizó en adultos peruanos residentes en Lima y los resultados respaldan su evidencia basada en la estructura interna, 
+    confiabilidad bayesiana y SEM, invarianza para el grupo de sexo y edad (adultos jovenes y adultos) y evidencia basada en la relación
+    con otras variables.
   date: true
-  link: https://drive.google.com/file/d/1sKJW1bRE7b9C3R_mD8jHnUwWJcMHGj4h/view?usp=sharing
-  image: /assets/img/psicologicas/paykel.jpeg
-  icon: "fas fa-project-diagram"
+  link: https://drive.google.com/file/d/1AkWH56AHXtZXVr0HV7AxwRYvbhKubcVC/view?usp=sharing
+  image: /assets/img/psicologicas/EDB-4.jpg
   tech: 
-    - Conductas Suicidas
-    - Evaluación psicológica
+    - Desesperanza
     - Psicometría
     - SEM
+    - Confiabilidad bayesiana
+
+- name: Generalized Anxiety Disorder-7
+  id: Generalized Anxiety Disorder-7
+  description: >
+    El GAD-7 esta conformado por 7 ítems que evalua los síntomas de ansiedad generalizada durante las últimas 2 semanas. El estudio se 
+    realizó en adultos peruanos residentes en Lima y los análisis se basaron desde un enfoque mixto de SEM y TRI. Los resultados respaldan
+    su evidencia basada en la estructura interna, confiabilidad bayesiana y SEM, invarianza para el grupo de sexo y edad (adultos jovenes y 
+    adultos), evidencia basada en la relación con otras variables y evidencias psicometrícas a nivel del ítem (TRI), siendo más útil en
+    adultos con niveles altos de ansiedad generalizada.   
+  date: true
+  link: https://drive.google.com/file/d/1OIVgqIezAqYtO5aOUt5MIRz50G8evdfj/view?usp=sharing
+  image: /assets/img/psicologicas/GAD-7.jpg
+  tech: 
+    - Ansiedad generalizada
+    - GAD-7
+    - Psicometría
+    - SEM
+    - TRI
+    - Confiabilidad bayesiana
 
 - name: Generalized Anxiety Disorder-2
   id: Generalized Anxiety Disorder-2
