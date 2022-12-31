@@ -18,6 +18,26 @@ last-updated: 2021-09-17 5:55 PM
 
   **<font color=blue>2022</font>**
 
++ **Insomnio e ideación suicida en adultos: el rol mediador de la desesperanza**<br/>
+  **Baños-Chaparro J.**, Ramos-Vera, C., Jacobi-Romero, D. J., Ynquillay-Lima, P., Lamas Delgado, F., y Fuster Guillen F.<br/>
+  Calidad de Vida y Salud (CdVS), 2022<br/>
+  **[[<font color=red>Artículo</font>](http://revistacdvs.uflo.edu.ar/index.php/CdVUFLO/article/view/351)]**
+
++ **Evaluación de síntomas de ansiedad: evidencias psicométricas del Generalized Anxiety Disorder-7 en adultos peruanos**<br/>
+  **Baños-Chaparro J.**, Lamas Delgado F., Ynquillay-Lima P., Jacobi-Romero, D. J., y Fuster Guillen F.<br/>
+  Revista Duazary, 2022<br/>
+  **[[<font color=red>Artículo</font>](https://revistas.unimagdalena.edu.co/index.php/duazary/article/view/4986)]**
+
++ **Enneagram typologies and healthy personality to psychosocial stress: A network approach**<br/>
+  Ramos-Vera, C., Serpa-Barrientos, A., **Baños-Chaparro J.**, Vallejos-Saldarriaga, J., y Saintila, J.<br/>
+  Frontiers in Psychology, 2022<br/>
+  **[[<font color=red>Artículo</font>](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1051271/full)]**
+
++ **Escala de Desesperanza de Beck: Un Análisis Psicométrico de la Versión Breve en Adultos Peruanos**<br/>
+  **Baños-Chaparro J.**, Lamas Delgado F., Ynquillay-Lima P., Jacobi-Romero, D. J., y Fuster Guillen F.<br/>
+  Revista Iberoamericana de Diagnóstico y Evaluación - e Avaliação Psicológica (RIDEP), 2022<br/>
+  **[[<font color=red>Artículo</font>](https://www.aidep.org/sites/default/files/2022-10/RIDEP65-Art7.pdf)]**
+
 + **Evaluación de conductas suicidas: Evidencias psicométricas del Suicidal Behaviors Questionnaire-Revised (SBQ-R) en adultos peruanos**<br/>
   **Baños-Chaparro J.**, Lamas Delgado F., Ynquillay-Lima P., y Fuster Guillen F.<br/>
   Revista Latinoamericana de Ciencia Psicológica (PSIENCIA), 2022<br/>
