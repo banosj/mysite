@@ -16,6 +16,24 @@ last-updated: 2021-09-17 5:55 PM
 ### Artículos
 
 
+   **<font color=blue>2023</font>**
+  
+  + **Explorando los síntomas de insomnio en adultos: un análisis de red**<br/>
+  **Baños-Chaparro J.**<br/>
+  Salud y Drogas, 2023<br/>
+  **[[<font color=red>Artículo</font>](https://ojs.haaj.org/?journal=haaj&page=article&op=view&path%5B%5D=729)]**
+  
+  + **Evidencias psicométricas de la Escala de Ideación Suicida de Roberts en adolescentes peruanos**<br/>
+  **Baños-Chaparro J.**, y Fuster Guillen F.<br/>
+  Interdisciplinaria, 2023<br/>
+  **[[<font color=red>Artículo</font>](http://www.ciipme-conicet.gov.ar/ojs/index.php?journal=interdisciplinaria&page=article&op=view&path%5B%5D=923)]**
+  
+  + **Análisis bayesiano del maltrato infantil en adolescentes peruanos**<br/>
+  **Baños-Chaparro J.**<br/>
+  Revista Información Científica (RIC), 2023<br/>
+  **[[<font color=red>Artículo</font>](https://revinfcientifica.sld.cu/index.php/ric/article/view/4049)]**
+  
+
   **<font color=blue>2022</font>**
 
 + **Insomnio e ideación suicida en adultos: el rol mediador de la desesperanza**<br/>
