@@ -1,3 +1,22 @@
+- name: Escala de Estigma del Suicidio - versión corta (SOSS-SF)
+  id: Escala de Estigma del Suicidio ver sión corta (SOSS-SF)
+  description: >
+    La SOSS-SF esta conformada por 16 ítems basado en un sistema de respuesta tipo Likert y evalúa el 
+    estigma hacia las personas que mueren por suicidio a través de 3 dimensiones: estigma, aislamiento 
+    y glorificación. El estudio realizado en el Perú, contó con la participación de adultos de población general.
+    Los análisis se realizaron a partir de un enfoque SEM AFC e invarianza, TRI y confiabilidad bayesiana.
+    Los resultados respaldan su evidencia basada en el contenido, la estructura interna, invarianza de medición
+    según sexo y confiabilidad de sus puntuaciones. 
+  date: true
+  link: https://drive.google.com/file/d/1wLN0kCrXYNT0l7F2ETNrCwH8YVOgElLh/view?usp=sharing
+  image: /assets/img/psicologicas/AFC_SOSS-SF.jpg
+  tech: 
+    - Estigma del suicidio
+    - Adultos peruanos
+    - Psicometría
+    - SEM & TRI
+    - Confiabilidad bayesiana
+
 - name: Escala de Ideación Suicida de Roberts
   id: Escala de Ideación Suicida de Roberts
   description: >
