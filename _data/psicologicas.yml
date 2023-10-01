@@ -17,6 +17,43 @@
     - SEM & TRI
     - Confiabilidad bayesiana
 
+- name: Escala de Alfabetización del Suicidio - versión corta (LOSS-SF)
+  id: Escala de Alfabetización del Suicidio - versión corta (LOSS-SF)
+  description: >
+    La LOSS-SF esta conformada por 12 ítems basado en un sistema de respuesta calificativo en el cual las 
+    respuestas correctas equivalen 1 y las incorrectas 0. Cada ítem presenta tres opciones (Verdadero, Falso y No sabe)
+    que evalúan la alfabetización del suicidio a través de cuatro áreas. El estudio realizado en el Perú, contó 
+    con la participación de adultos de población general. Los análisis se realizaron a partir de un enfoque TRI y DIF.
+    Los resultados respaldan su evidencia basada en el contenido, la estructura interna, invarianza de medición
+    según sexo y precisión de sus puntuaciones. 
+  date: true
+  link: https://drive.google.com/file/d/1wH-gggdDBkWyizlf7WPJP8LYsfTpN7jH/view?usp=sharing
+  image: /assets/img/psicologicas/LOSS-SF logo.jpg
+  tech: 
+    - Alfabetización del suicidio
+    - Adultos peruanos
+    - Psicometría
+    - TRI
+    - DIF
+
+- name: Escala de la Capacidad Adquirida para el Suicidio - Intrepidez ante la Muerte (ACSS-FAD)
+  id: Escala de la Capacidad Adquirida para el Suicidio - Intrepidez ante la Muerte (ACSS-FAD)
+  description: >
+    El ACSS-FAD esta conformado por 7 ítems basado en un sistema de respuesta tipo Likert y evalúa la 
+    intrepidez ante la muerte, un atributo psicológico de la capacidad adquirida. El estudio realizado en el Perú,
+    contó con la participación de adultos de población general. Los análisis se realizaron a partir de un 
+    enfoque SEM AFC, invarianza, confiabilidad, TRI y DIF. Los resultados respaldan su evidencia basada en el 
+    contenido, la estructura interna, invarianza de medición según sexo y confiabilidad de sus puntuaciones. 
+  date: true
+  link: https://drive.google.com/file/d/18f9TZu3l_c9tQJiGpjzYmVVA0J2_-EOU/view?usp=sharing
+  image: /assets/img/psicologicas/AFC_ACSS-FAD.jpg
+  tech: 
+    - Capacidad adquirida
+    - Adultos peruanos
+    - Psicometría
+    - SEM & TRI
+    - Funcionamiento diferencial del ítem
+
 - name: Escala de Ideación Suicida de Roberts
   id: Escala de Ideación Suicida de Roberts
   description: >
