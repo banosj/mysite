@@ -1,3 +1,23 @@
+- name: Test de Identificación de Trastornos por Consumo de Alcohol - versión consumo de riesgo de alcohol (AUDIT-C)
+  id: Test de Identificación de Trastornos por Consumo de Alcohol - versión consumo de riesgo de alcohol (AUDIT-C)
+  description: >
+    El AUDIT-C es una versión corta del AUDIT original para evaluar especificamente el consumo de riesgo de alcohol. Está conformado
+    por 3 ítems y cada uno de ellos presenta un sistema de respuesta Likert. Los ítems se refieren al último año y previamente se debe 
+    explicar que entiende por bebidas alcohólicas a los participantes. El estudio realizado en el Perú, contó con la participación de adolescentes residentes en Huancavelica.
+    Los análisis se realizaron a partir de un enfoque AFC, invarianza, CB-SEM, TRI y confiabilidad bayesiana.
+    Los resultados respaldan su evidencia basada en el contenido, la estructura interna, invarianza de medición
+    según sexo, relación con otras variables, confiabilidad de sus puntuaciones y propiedades a nivel del ítem (TRI).  
+  date: true
+  link: https://drive.google.com/file/d/1FNiN2GLKl_uzdzCQ6hVSfTjQhUC0hA31/view
+  image: /assets/img/psicologicas/AFC_AUDIT-C.jpg
+  tech: 
+    - Consumo de alcohol
+    - Adolescentes
+    - Psicometría
+    - SEM & TRI
+    - Invarianza de medición
+    - Confiabilidad bayesiana
+
 - name: Escala de Estigma del Suicidio - versión corta (SOSS-SF)
   id: Escala de Estigma del Suicidio ver sión corta (SOSS-SF)
   description: >
